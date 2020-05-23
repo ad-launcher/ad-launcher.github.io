@@ -8474,13 +8474,6 @@
   justify-self: center;
 }
 
-#w-node-88dad62c3edd-d62c3eb9 {
-  -webkit-align-self: center;
-  -ms-flex-item-align: center;
-  -ms-grid-row-align: center;
-  align-self: center;
-}
-
 #w-node-7bbac75ea433-c75ea42d {
   -ms-grid-column-align: center;
   justify-self: center;
@@ -8546,6 +8539,13 @@
   grid-column-start: span 1;
   -ms-grid-column-span: 1;
   grid-column-end: span 1;
+}
+
+#w-node-88dad62c3edd-d62c3eb9 {
+  -webkit-align-self: center;
+  -ms-flex-item-align: center;
+  -ms-grid-row-align: center;
+  align-self: center;
 }
 
 #w-node-d838ccf914d3-3a7a2db2 {
