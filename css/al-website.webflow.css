@@ -8436,6 +8436,7 @@
   }
   .div-block-64.but-u-special {
     position: fixed;
+    display: none;
   }
   .div-block-65 {
     position: fixed;
